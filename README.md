@@ -16,11 +16,11 @@ allprojects {
 ```
 Than in the module buildscript:
 
-```groovy
-dependencies {
-       compile 'com.github.shareme:gwsfloatlabellayout:library:tag@aar'
 
+```groovy
+compile 'com.github.shareme:GWSFloatLabelLayout:1.0.0.0@aar'
 ```
+
 The tag you will replace with the latest version number which you can find by clicking the release
 link above in the github UI to see what the latest version number is.
 
