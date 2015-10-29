@@ -18,7 +18,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSFloatLabelLayout:1.0.0.0@aar'
+compile 'com.github.shareme:GWSFloatLabelLayout:{latest-release-number}@aar'
 ```
 
 The tag you will replace with the latest version number which you can find by clicking the release
